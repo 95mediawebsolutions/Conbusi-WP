@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-01-05 19:42" -->
+	<!-- generator="WordPress/5.3.2" created="2020-01-06 11:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Conbusi</title>
 	<link>http://conbusi.95media.co.uk</link>
 	<description>Consulting Wordpress Theme</description>
-	<pubDate>Sun, 05 Jan 2020 19:42:29 +0000</pubDate>
+	<pubDate>Mon, 06 Jan 2020 11:05:46 +0000</pubDate>
 	<language>en-GB</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://conbusi.95media.co.uk</wp:base_site_url>
@@ -658,6 +658,18 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:500;s:4:"file";s:23:"2019/12/info_banner.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:22:"info_banner-300x78.png";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:24:"info_banner-1024x267.png";s:5:"width";i:1024;s:6:"height";i:267;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:23:"info_banner-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:23:"info_banner-768x200.png";s:5:"width";i:768;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:24:"info_banner-1536x400.png";s:5:"width";i:1536;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:12:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:1110266;s:14:"optimized_size";i:459132;s:7:"percent";d:58.64999999999999857891452847979962825775146484375;}s:22:"1536x1536@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:633978;s:14:"optimized_size";i:23058;s:7:"percent";d:96.3599999999999994315658113919198513031005859375;}s:25:"medium_large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:187512;s:14:"optimized_size";i:10992;s:7:"percent";d:94.1400000000000005684341886080801486968994140625;}s:22:"thumbnail@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:26530;s:14:"optimized_size";i:1752;s:7:"percent";d:93.400000000000005684341886080801486968994140625;}s:18:"large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:313804;s:14:"optimized_size";i:15138;s:7:"percent";d:95.18000000000000682121026329696178436279296875;}s:19:"medium@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:36256;s:14:"optimized_size";i:3766;s:7:"percent";d:89.6099999999999994315658113919198513031005859375;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:1110266;s:14:"optimized_size";i:31156;s:7:"percent";d:97.18999999999999772626324556767940521240234375;}s:6:"medium";a:4:{s:7:"success";b:1;s:13:"original_size";i:36256;s:14:"optimized_size";i:16228;s:7:"percent";d:55.24000000000000198951966012828052043914794921875;}s:5:"large";a:4:{s:7:"success";b:1;s:13:"original_size";i:313804;s:14:"optimized_size";i:134916;s:7:"percent";d:57.00999999999999801048033987171947956085205078125;}s:9:"thumbnail";a:4:{s:7:"success";b:1;s:13:"original_size";i:26530;s:14:"optimized_size";i:10008;s:7:"percent";d:62.280000000000001136868377216160297393798828125;}s:12:"medium_large";a:4:{s:7:"success";b:1;s:13:"original_size";i:187512;s:14:"optimized_size";i:82913;s:7:"percent";d:55.780000000000001136868377216160297393798828125;}s:9:"1536x1536";a:4:{s:7:"success";b:1;s:13:"original_size";i:633978;s:14:"optimized_size";i:281655;s:7:"percent";d:55.57000000000000028421709430404007434844970703125;}}s:5:"stats";a:3:{s:13:"original_size";i:4616692;s:14:"optimized_size";i:1070714;s:7:"percent";d:76.81000000000000227373675443232059478759765625;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>footer_logo</title>
@@ -689,67 +701,107 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:126;s:6:"height";i:39;s:4:"file";s:23:"2019/12/footer_logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:2092;s:14:"optimized_size";i:777;s:7:"percent";d:62.8599999999999994315658113919198513031005859375;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:2092;s:14:"optimized_size";i:940;s:7:"percent";d:55.07000000000000028421709430404007434844970703125;}}s:5:"stats";a:3:{s:13:"original_size";i:4184;s:14:"optimized_size";i:1717;s:7:"percent";d:58.96000000000000085265128291212022304534912109375;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner_2</title>
-		<link>http://conbusi.95media.co.uk/slider/slider-1/banner_2/</link>
-		<pubDate>Sat, 28 Dec 2019 05:38:43 +0000</pubDate>
+		<title>bradcam</title>
+		<link>http://conbusi.95media.co.uk/about-us/bradcam/</link>
+		<pubDate>Sun, 29 Dec 2019 12:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[Conbusi]]></dc:creator>
-		<guid isPermaLink="false">http://conbusi.95media.co.uk/wp-content/uploads/2019/12/banner_2.png</guid>
+		<guid isPermaLink="false">http://conbusi.95media.co.uk/wp-content/uploads/2019/12/bradcam.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>155</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-28 05:38:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-28 05:38:43]]></wp:post_date_gmt>
+		<wp:post_id>198</wp:post_id>
+		<wp:post_date><![CDATA[2019-12-29 12:53:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-12-29 12:53:39]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banner_2]]></wp:post_name>
+		<wp:post_name><![CDATA[bradcam]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>154</wp:post_parent>
+		<wp:post_parent>197</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://conbusi.95media.co.uk/wp-content/uploads/2019/12/banner_2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://conbusi.95media.co.uk/wp-content/uploads/2019/12/bradcam.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/banner_2.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2019/12/bradcam.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:700;s:4:"file";s:20:"2019/12/banner_2.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:20:"banner_2-300x109.png";s:5:"width";i:300;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:21:"banner_2-1024x373.png";s:5:"width";i:1024;s:6:"height";i:373;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"banner_2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:20:"banner_2-768x280.png";s:5:"width";i:768;s:6:"height";i:280;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:21:"banner_2-1536x560.png";s:5:"width";i:1536;s:6:"height";i:560;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:450;s:4:"file";s:19:"2019/12/bradcam.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:18:"bradcam-300x70.png";s:5:"width";i:300;s:6:"height";i:70;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:20:"bradcam-1024x240.png";s:5:"width";i:1024;s:6:"height";i:240;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"bradcam-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:19:"bradcam-768x180.png";s:5:"width";i:768;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:20:"bradcam-1536x360.png";s:5:"width";i:1536;s:6:"height";i:360;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:12:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:1044855;s:14:"optimized_size";i:332872;s:7:"percent";d:68.1400000000000005684341886080801486968994140625;}s:22:"1536x1536@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:609034;s:14:"optimized_size";i:17558;s:7:"percent";d:97.1200000000000045474735088646411895751953125;}s:25:"medium_large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:164652;s:14:"optimized_size";i:6452;s:7:"percent";d:96.0799999999999982946974341757595539093017578125;}s:22:"thumbnail@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:28795;s:14:"optimized_size";i:1502;s:7:"percent";d:94.780000000000001136868377216160297393798828125;}s:18:"large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:283152;s:14:"optimized_size";i:9470;s:7:"percent";d:96.659999999999996589394868351519107818603515625;}s:19:"medium@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:28654;s:14:"optimized_size";i:1808;s:7:"percent";d:93.68999999999999772626324556767940521240234375;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:1044855;s:14:"optimized_size";i:31594;s:7:"percent";d:96.9800000000000039790393202565610408782958984375;}s:6:"medium";a:4:{s:7:"success";b:1;s:13:"original_size";i:28654;s:14:"optimized_size";i:10217;s:7:"percent";d:64.340000000000003410605131648480892181396484375;}s:5:"large";a:4:{s:7:"success";b:1;s:13:"original_size";i:283152;s:14:"optimized_size";i:90171;s:7:"percent";d:68.150000000000005684341886080801486968994140625;}s:9:"thumbnail";a:4:{s:7:"success";b:1;s:13:"original_size";i:28795;s:14:"optimized_size";i:10540;s:7:"percent";d:63.39999999999999857891452847979962825775146484375;}s:12:"medium_large";a:4:{s:7:"success";b:1;s:13:"original_size";i:164652;s:14:"optimized_size";i:54061;s:7:"percent";d:67.1700000000000017053025658242404460906982421875;}s:9:"1536x1536";a:4:{s:7:"success";b:1;s:13:"original_size";i:609034;s:14:"optimized_size";i:194246;s:7:"percent";d:68.1099999999999994315658113919198513031005859375;}}s:5:"stats";a:3:{s:13:"original_size";i:4318284;s:14:"optimized_size";i:760491;s:7:"percent";d:82.3900000000000005684341886080801486968994140625;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner</title>
-		<link>http://conbusi.95media.co.uk/slider/slider-2/banner/</link>
-		<pubDate>Sat, 28 Dec 2019 05:40:49 +0000</pubDate>
+		<title>marketing</title>
+		<link>http://conbusi.95media.co.uk/service/marketing-seo-agency/marketing/</link>
+		<pubDate>Sun, 29 Dec 2019 14:33:52 +0000</pubDate>
 		<dc:creator><![CDATA[Conbusi]]></dc:creator>
-		<guid isPermaLink="false">http://conbusi.95media.co.uk/wp-content/uploads/2019/12/banner.png</guid>
+		<guid isPermaLink="false">http://conbusi.95media.co.uk/wp-content/uploads/2019/12/marketing.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>157</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-28 05:40:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-28 05:40:49]]></wp:post_date_gmt>
+		<wp:post_id>208</wp:post_id>
+		<wp:post_date><![CDATA[2019-12-29 14:33:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-12-29 14:33:52]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banner]]></wp:post_name>
+		<wp:post_name><![CDATA[marketing]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>156</wp:post_parent>
+		<wp:post_parent>207</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://conbusi.95media.co.uk/wp-content/uploads/2019/12/banner.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://conbusi.95media.co.uk/wp-content/uploads/2019/12/marketing.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/banner.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2019/12/marketing.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:700;s:4:"file";s:18:"2019/12/banner.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:18:"banner-300x109.png";s:5:"width";i:300;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:19:"banner-1024x373.png";s:5:"width";i:1024;s:6:"height";i:373;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"banner-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:18:"banner-768x280.png";s:5:"width";i:768;s:6:"height";i:280;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:19:"banner-1536x560.png";s:5:"width";i:1536;s:6:"height";i:560;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:98;s:6:"height";i:98;s:4:"file";s:21:"2019/12/marketing.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[marketing and seo]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:3567;s:14:"optimized_size";i:1830;s:7:"percent";d:48.7000000000000028421709430404007434844970703125;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:3567;s:14:"optimized_size";i:1948;s:7:"percent";d:45.3900000000000005684341886080801486968994140625;}}s:5:"stats";a:3:{s:13:"original_size";i:7134;s:14:"optimized_size";i:3778;s:7:"percent";d:47.03999999999999914734871708787977695465087890625;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -893,72 +945,6 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bradcam</title>
-		<link>http://conbusi.95media.co.uk/about-us/bradcam/</link>
-		<pubDate>Sun, 29 Dec 2019 12:53:39 +0000</pubDate>
-		<dc:creator><![CDATA[Conbusi]]></dc:creator>
-		<guid isPermaLink="false">http://conbusi.95media.co.uk/wp-content/uploads/2019/12/bradcam.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>198</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-29 12:53:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-29 12:53:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[bradcam]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>197</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://conbusi.95media.co.uk/wp-content/uploads/2019/12/bradcam.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/bradcam.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:450;s:4:"file";s:19:"2019/12/bradcam.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:18:"bradcam-300x70.png";s:5:"width";i:300;s:6:"height";i:70;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:20:"bradcam-1024x240.png";s:5:"width";i:1024;s:6:"height";i:240;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"bradcam-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:19:"bradcam-768x180.png";s:5:"width";i:768;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:20:"bradcam-1536x360.png";s:5:"width";i:1536;s:6:"height";i:360;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>marketing</title>
-		<link>http://conbusi.95media.co.uk/service/marketing-seo-agency/marketing/</link>
-		<pubDate>Sun, 29 Dec 2019 14:33:52 +0000</pubDate>
-		<dc:creator><![CDATA[Conbusi]]></dc:creator>
-		<guid isPermaLink="false">http://conbusi.95media.co.uk/wp-content/uploads/2019/12/marketing.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>208</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-29 14:33:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-29 14:33:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[marketing]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>207</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://conbusi.95media.co.uk/wp-content/uploads/2019/12/marketing.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/12/marketing.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:98;s:6:"height";i:98;s:4:"file";s:21:"2019/12/marketing.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[marketing and seo]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>startup</title>
 		<link>http://conbusi.95media.co.uk/service/startup-agency/startup/</link>
 		<pubDate>Sun, 29 Dec 2019 14:34:56 +0000</pubDate>
@@ -991,6 +977,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[startup Agency]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:3172;s:14:"optimized_size";i:1395;s:7:"percent";d:56.02000000000000312638803734444081783294677734375;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:3172;s:14:"optimized_size";i:1500;s:7:"percent";d:52.71000000000000085265128291212022304534912109375;}}s:5:"stats";a:3:{s:13:"original_size";i:6344;s:14:"optimized_size";i:2895;s:7:"percent";d:54.36999999999999744204615126363933086395263671875;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1027,6 +1025,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[corporate business]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:2460;s:14:"optimized_size";i:1179;s:7:"percent";d:52.07000000000000028421709430404007434844970703125;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:2460;s:14:"optimized_size";i:1572;s:7:"percent";d:36.10000000000000142108547152020037174224853515625;}}s:5:"stats";a:3:{s:13:"original_size";i:4920;s:14:"optimized_size";i:2751;s:7:"percent";d:44.090000000000003410605131648480892181396484375;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>finance</title>
@@ -1061,6 +1071,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[finance solution]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:3373;s:14:"optimized_size";i:1984;s:7:"percent";d:41.17999999999999971578290569595992565155029296875;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:3373;s:14:"optimized_size";i:1612;s:7:"percent";d:52.21000000000000085265128291212022304534912109375;}}s:5:"stats";a:3:{s:13:"original_size";i:6746;s:14:"optimized_size";i:3596;s:7:"percent";d:46.68999999999999772626324556767940521240234375;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1097,6 +1119,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Food & Restaurant]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:3493;s:14:"optimized_size";i:1614;s:7:"percent";d:53.78999999999999914734871708787977695465087890625;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:3493;s:14:"optimized_size";i:1866;s:7:"percent";d:46.5799999999999982946974341757595539093017578125;}}s:5:"stats";a:3:{s:13:"original_size";i:6986;s:14:"optimized_size";i:3480;s:7:"percent";d:50.18999999999999772626324556767940521240234375;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>travel-agency</title>
@@ -1132,6 +1166,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[travel agency]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:3690;s:14:"optimized_size";i:2000;s:7:"percent";d:45.7999999999999971578290569595992565155029296875;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:3690;s:14:"optimized_size";i:2062;s:7:"percent";d:44.11999999999999744204615126363933086395263671875;}}s:5:"stats";a:3:{s:13:"original_size";i:7380;s:14:"optimized_size";i:4062;s:7:"percent";d:44.96000000000000085265128291212022304534912109375;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>single_blog_1</title>
@@ -1162,6 +1208,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:375;s:4:"file";s:25:"2019/12/single_blog_1.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:25:"single_blog_1-300x150.png";s:5:"width";i:300;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"single_blog_1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:6:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:453240;s:14:"optimized_size";i:162405;s:7:"percent";d:64.1700000000000017053025658242404460906982421875;}s:22:"thumbnail@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:47347;s:14:"optimized_size";i:3858;s:7:"percent";d:91.849999999999994315658113919198513031005859375;}s:19:"medium@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:87700;s:14:"optimized_size";i:6390;s:7:"percent";d:92.7099999999999937472239253111183643341064453125;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:453240;s:14:"optimized_size";i:24684;s:7:"percent";d:94.5499999999999971578290569595992565155029296875;}s:6:"medium";a:4:{s:7:"success";b:1;s:13:"original_size";i:87700;s:14:"optimized_size";i:30607;s:7:"percent";d:65.099999999999994315658113919198513031005859375;}s:9:"thumbnail";a:4:{s:7:"success";b:1;s:13:"original_size";i:47347;s:14:"optimized_size";i:17300;s:7:"percent";d:63.46000000000000085265128291212022304534912109375;}}s:5:"stats";a:3:{s:13:"original_size";i:1176574;s:14:"optimized_size";i:245244;s:7:"percent";d:79.159999999999996589394868351519107818603515625;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1194,6 +1252,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:750;s:6:"height";i:375;s:4:"file";s:25:"2019/12/single_blog_2.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:25:"single_blog_2-300x150.png";s:5:"width";i:300;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"single_blog_2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:6:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:382831;s:14:"optimized_size";i:167224;s:7:"percent";d:56.32000000000000028421709430404007434844970703125;}s:22:"thumbnail@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:44598;s:14:"optimized_size";i:3858;s:7:"percent";d:91.349999999999994315658113919198513031005859375;}s:19:"medium@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:79380;s:14:"optimized_size";i:5558;s:7:"percent";d:93;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:382831;s:14:"optimized_size";i:24388;s:7:"percent";d:93.6299999999999954525264911353588104248046875;}s:6:"medium";a:4:{s:7:"success";b:1;s:13:"original_size";i:79380;s:14:"optimized_size";i:32548;s:7:"percent";d:59;}s:9:"thumbnail";a:4:{s:7:"success";b:1;s:13:"original_size";i:44598;s:14:"optimized_size";i:17337;s:7:"percent";d:61.13000000000000255795384873636066913604736328125;}}s:5:"stats";a:3:{s:13:"original_size";i:1013618;s:14:"optimized_size";i:250913;s:7:"percent";d:75.25;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>respect</title>
@@ -1224,6 +1294,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:73;s:6:"height";i:61;s:4:"file";s:19:"2019/12/respect.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:1782;s:14:"optimized_size";i:911;s:7:"percent";d:48.88000000000000255795384873636066913604736328125;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:1782;s:14:"optimized_size";i:1508;s:7:"percent";d:15.3800000000000007815970093361102044582366943359375;}}s:5:"stats";a:3:{s:13:"original_size";i:3564;s:14:"optimized_size";i:2419;s:7:"percent";d:32.13000000000000255795384873636066913604736328125;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1260,6 +1342,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[business success]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:1550;s:14:"optimized_size";i:406;s:7:"percent";d:73.81000000000000227373675443232059478759765625;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:1550;s:14:"optimized_size";i:852;s:7:"percent";d:45.030000000000001136868377216160297393798828125;}}s:5:"stats";a:3:{s:13:"original_size";i:3100;s:14:"optimized_size";i:1258;s:7:"percent";d:59.4200000000000017053025658242404460906982421875;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>group</title>
@@ -1294,6 +1388,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[team member]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:3807;s:14:"optimized_size";i:1418;s:7:"percent";d:62.75;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:3807;s:14:"optimized_size";i:1866;s:7:"percent";d:50.99000000000000198951966012828052043914794921875;}}s:5:"stats";a:3:{s:13:"original_size";i:7614;s:14:"optimized_size";i:3284;s:7:"percent";d:56.86999999999999744204615126363933086395263671875;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1330,6 +1436,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[happy client]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:2095;s:14:"optimized_size";i:650;s:7:"percent";d:68.969999999999998863131622783839702606201171875;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:2095;s:14:"optimized_size";i:1150;s:7:"percent";d:45.1099999999999994315658113919198513031005859375;}}s:5:"stats";a:3:{s:13:"original_size";i:4190;s:14:"optimized_size";i:1800;s:7:"percent";d:57.03999999999999914734871708787977695465087890625;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>respect</title>
@@ -1365,6 +1483,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[business done]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:2577;s:14:"optimized_size";i:898;s:7:"percent";d:65.150000000000005684341886080801486968994140625;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:2577;s:14:"optimized_size";i:1496;s:7:"percent";d:41.9500000000000028421709430404007434844970703125;}}s:5:"stats";a:3:{s:13:"original_size";i:5154;s:14:"optimized_size";i:2394;s:7:"percent";d:53.5499999999999971578290569595992565155029296875;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>qoute</title>
@@ -1396,6 +1526,18 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:49;s:6:"height";i:49;s:4:"file";s:17:"2019/12/qoute.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:2:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:1125;s:14:"optimized_size";i:271;s:7:"percent";d:75.909999999999996589394868351519107818603515625;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:1125;s:14:"optimized_size";i:222;s:7:"percent";d:80.2699999999999960209606797434389591217041015625;}}s:5:"stats";a:3:{s:13:"original_size";i:2250;s:14:"optimized_size";i:493;s:7:"percent";d:78.090000000000003410605131648480892181396484375;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>banner</title>
@@ -1426,6 +1568,112 @@ Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:700;s:4:"file";s:20:"2019/12/banner-1.png";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:20:"banner-1-300x109.png";s:5:"width";i:300;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:21:"banner-1-1024x373.png";s:5:"width";i:1024;s:6:"height";i:373;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"banner-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:20:"banner-1-768x280.png";s:5:"width";i:768;s:6:"height";i:280;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:21:"banner-1-1536x560.png";s:5:"width";i:1536;s:6:"height";i:560;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[success]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:12:{s:4:"full";a:4:{s:7:"success";b:1;s:13:"original_size";i:1573958;s:14:"optimized_size";i:518972;s:7:"percent";d:67.030000000000001136868377216160297393798828125;}s:22:"1536x1536@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:910472;s:14:"optimized_size";i:23772;s:7:"percent";d:97.3900000000000005684341886080801486968994140625;}s:25:"medium_large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:245395;s:14:"optimized_size";i:8734;s:7:"percent";d:96.43999999999999772626324556767940521240234375;}s:22:"thumbnail@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:34403;s:14:"optimized_size";i:2304;s:7:"percent";d:93.2999999999999971578290569595992565155029296875;}s:18:"large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:422740;s:14:"optimized_size";i:13430;s:7:"percent";d:96.81999999999999317878973670303821563720703125;}s:19:"medium@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:42469;s:14:"optimized_size";i:2516;s:7:"percent";d:94.0799999999999982946974341757595539093017578125;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:1573958;s:14:"optimized_size";i:43178;s:7:"percent";d:97.2600000000000051159076974727213382720947265625;}s:6:"medium";a:4:{s:7:"success";b:1;s:13:"original_size";i:42469;s:14:"optimized_size";i:14452;s:7:"percent";d:65.969999999999998863131622783839702606201171875;}s:5:"large";a:4:{s:7:"success";b:1;s:13:"original_size";i:422740;s:14:"optimized_size";i:138053;s:7:"percent";d:67.340000000000003410605131648480892181396484375;}s:9:"thumbnail";a:4:{s:7:"success";b:1;s:13:"original_size";i:34403;s:14:"optimized_size";i:13211;s:7:"percent";d:61.60000000000000142108547152020037174224853515625;}s:12:"medium_large";a:4:{s:7:"success";b:1;s:13:"original_size";i:245395;s:14:"optimized_size";i:79457;s:7:"percent";d:67.6200000000000045474735088646411895751953125;}s:9:"1536x1536";a:4:{s:7:"success";b:1;s:13:"original_size";i:910472;s:14:"optimized_size";i:298311;s:7:"percent";d:67.2399999999999948840923025272786617279052734375;}}s:5:"stats";a:3:{s:13:"original_size";i:6458874;s:14:"optimized_size";i:1156390;s:7:"percent";d:82.099999999999994315658113919198513031005859375;}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>banner_2</title>
+		<link>http://conbusi.95media.co.uk/slider/slider-1/banner_2/</link>
+		<pubDate>Sun, 05 Jan 2020 23:04:25 +0000</pubDate>
+		<dc:creator><![CDATA[Conbusi]]></dc:creator>
+		<guid isPermaLink="false">http://conbusi.95media.co.uk/wp-content/uploads/2019/12/banner_2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>357</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-05 23:04:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-05 23:04:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner_2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>154</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://conbusi.95media.co.uk/wp-content/uploads/2019/12/banner_2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/12/banner_2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:700;s:4:"file";s:20:"2019/12/banner_2.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:20:"banner_2-300x109.jpg";s:5:"width";i:300;s:6:"height";i:109;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"banner_2-1024x373.jpg";s:5:"width";i:1024;s:6:"height";i:373;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"banner_2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"banner_2-768x280.jpg";s:5:"width";i:768;s:6:"height";i:280;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:21:"banner_2-1536x560.jpg";s:5:"width";i:1536;s:6:"height";i:560;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[already_optimized]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:7:{s:4:"full";a:2:{s:7:"success";b:0;s:5:"error";s:77:"WELL DONE. This image is already compressed, no further compression required.";}s:22:"1536x1536@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:103949;s:14:"optimized_size";i:44112;s:7:"percent";d:57.56000000000000227373675443232059478759765625;}s:25:"medium_large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:36487;s:14:"optimized_size";i:17632;s:7:"percent";d:51.67999999999999971578290569595992565155029296875;}s:22:"thumbnail@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:6729;s:14:"optimized_size";i:3484;s:7:"percent";d:48.219999999999998863131622783839702606201171875;}s:18:"large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:56589;s:14:"optimized_size";i:25844;s:7:"percent";d:54.3299999999999982946974341757595539093017578125;}s:19:"medium@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:9823;s:14:"optimized_size";i:5550;s:7:"percent";d:43.5;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:87995;s:14:"optimized_size";i:67162;s:7:"percent";d:23.67999999999999971578290569595992565155029296875;}}s:5:"stats";a:3:{s:13:"original_size";i:301572;s:14:"optimized_size";i:163784;s:7:"percent";d:45.68999999999999772626324556767940521240234375;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[slider banner 1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>banner-1</title>
+		<link>http://conbusi.95media.co.uk/slider/slider-2/banner-1/</link>
+		<pubDate>Sun, 05 Jan 2020 23:07:05 +0000</pubDate>
+		<dc:creator><![CDATA[Conbusi]]></dc:creator>
+		<guid isPermaLink="false">http://conbusi.95media.co.uk/wp-content/uploads/2019/12/banner-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>358</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-05 23:07:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-05 23:07:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>156</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://conbusi.95media.co.uk/wp-content/uploads/2019/12/banner-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/12/banner-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:700;s:4:"file";s:20:"2019/12/banner-1.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:20:"banner-1-300x109.jpg";s:5:"width";i:300;s:6:"height";i:109;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"banner-1-1024x373.jpg";s:5:"width";i:1024;s:6:"height";i:373;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"banner-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"banner-1-768x280.jpg";s:5:"width";i:768;s:6:"height";i:280;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:21:"banner-1-1536x560.jpg";s:5:"width";i:1536;s:6:"height";i:560;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_optimization_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[already_optimized]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_imagify_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:5:"sizes";a:7:{s:4:"full";a:2:{s:7:"success";b:0;s:5:"error";s:77:"WELL DONE. This image is already compressed, no further compression required.";}s:22:"1536x1536@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:64718;s:14:"optimized_size";i:23684;s:7:"percent";d:63.39999999999999857891452847979962825775146484375;}s:25:"medium_large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:21290;s:14:"optimized_size";i:8358;s:7:"percent";d:60.74000000000000198951966012828052043914794921875;}s:22:"thumbnail@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:5198;s:14:"optimized_size";i:2192;s:7:"percent";d:57.8299999999999982946974341757595539093017578125;}s:18:"large@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:33802;s:14:"optimized_size";i:13106;s:7:"percent";d:61.22999999999999687361196265555918216705322265625;}s:19:"medium@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:5919;s:14:"optimized_size";i:2406;s:7:"percent";d:59.35000000000000142108547152020037174224853515625;}s:17:"full@imagify-webp";a:4:{s:7:"success";b:1;s:13:"original_size";i:56690;s:14:"optimized_size";i:39338;s:7:"percent";d:30.6099999999999994315658113919198513031005859375;}}s:5:"stats";a:3:{s:13:"original_size";i:187617;s:14:"optimized_size";i:89084;s:7:"percent";d:52.52000000000000312638803734444081783294677734375;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[slider banner 2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3334,12 +3582,12 @@ for your Business</h3>]]></content:encoded>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[155]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[fw_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:15:"slider_btn_text";s:12:"Our Services";s:14:"slider_btn_url";s:1:"#";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[357]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3369,12 +3617,12 @@ for your Business</h3>]]></content:encoded>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[157]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[fw_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:15:"slider_btn_text";s:10:"Big Market";s:14:"slider_btn_url";s:1:"#";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3414,7 +3662,7 @@ for your Business</h3>]]></content:encoded>
 	</div>
 </section>
 
-<section class="fw-main-row counter_area overlay_03" style="background-image:url(http://conbusi.95media.co.uk/wp-content/uploads/2019/12/counter.png)">
+<section class="fw-main-row counter_area overlay_03" style="background-image:url(http://localhost:8888/conbusi/wp-content/uploads/2019/12/counter.png)">
 	<div class="fw-container">
 		<div class="fw-row">
 	<div class="fw-col-xs-12">
@@ -3707,7 +3955,7 @@ for your Business</h3>]]></content:encoded>
 	</div>
 </section>
 
-<section class="fw-main-row Information_area overlay" style="background-image:url(http://conbusi.95media.co.uk/wp-content/uploads/2019/12/info_banner.png)">
+<section class="fw-main-row Information_area overlay" style="background-image:url(http://localhost:8888/conbusi/wp-content/uploads/2019/12/info_banner.png)">
 	<div class="fw-container">
 		<div class="fw-row">
 	<div class="fw-col-xs-12">
@@ -4079,7 +4327,31 @@ for your Business</h3>]]></content:encoded>
     <div class="section_title text-center mb-40">
         <h3 class="text-left">Get Free Quote</h3>
     </div>
-</div></div>
+</div><div class="form-wrapper fw-contact-form contact-form">
+	<div class="wrap-forms">
+	<div class="fw-row"></div><div class="fw-row"><div class="fw-col-xs-12 form-builder-item">
+	<div class="field-text">
+				<label for="id-1">Name			<sup>*</sup>		</label>
+				
+			</div>
+</div></div><div class="fw-row"><div class="fw-col-xs-12 form-builder-item">
+	<div class="field-text">
+				<label for="id-2">Email			<sup>*</sup>		</label>
+				
+			</div>
+</div></div><div class="fw-row"><div class="fw-col-xs-12 form-builder-item">
+	<div class="field-text">
+				<label for="id-3">Telephone Number			<sup>*</sup>		</label>
+				
+			</div>
+</div></div><div class="fw-row"><div class="fw-col-xs-12 form-builder-item">
+	<div class="field-textarea">
+				<label for="id-4">About Quote			<sup>*</sup>		</label>
+				<textarea name="textarea_77a13b8" id="id-4"></textarea>
+			</div>
+</div></div><div class="fw-row"></div></div><div>
+	
+</div></div></div>
 <div class="fw-col-xs-12 fw-col-sm-6">
 	<img src="8888/conbusi/wp-content/uploads/2019/12/contact_thumb.png" alt="//localhost:8888/conbusi/wp-content/uploads/2019/12/contact_thumb.png" /></div>
 </div>
@@ -4087,7 +4359,7 @@ for your Business</h3>]]></content:encoded>
 	</div>
 </section>
 
-<section class="fw-main-row Information_area overlay" style="background-image:url(http://conbusi.95media.co.uk/wp-content/uploads/2019/12/info_banner.png)">
+<section class="fw-main-row Information_area overlay" style="background-image:url(http://localhost:8888/conbusi/wp-content/uploads/2019/12/info_banner.png)">
 	<div class="fw-container">
 		<div class="fw-row">
 	<div class="fw-col-xs-12">
@@ -4114,7 +4386,7 @@ for your Business</h3>]]></content:encoded>
 </section>
 
 
-<!-- 4a73d773c9211ff018fcb6c8249b0a54 -->]]></content:encoded>
+<!-- 171f23049254efcae3df0ff53d2fe18b -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>225</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-29 15:19:01]]></wp:post_date>
@@ -4138,7 +4410,7 @@ for your Business</h3>]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fw:opt:ext:pb:page-builder:json]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"type":"section","atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"","predefined":"","data":{"icon":"","css":[]}},"video":"","custom_class":"service_area","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"},"_items":[{"type":"simple","shortcode":"section_heading","atts":{"section_heading":"What we Do?","custom_class":""}},{"type":"simple","shortcode":"services","atts":{"custom_class":""}}]},{"type":"section","_items":[{"type":"column","_items":[{"type":"simple","shortcode":"section_heading","atts":{"section_heading":"Get Free Quote","custom_class":"text-left"}}],"width":"1_2","atts":{"demo_text":"","demo_select":""}},{"type":"column","width":"1_2","_items":[{"type":"simple","shortcode":"media_image","atts":{"image":{"attachment_id":"140","url":"\/\/localhost:8888\/conbusi\/wp-content\/uploads\/2019\/12\/contact_thumb.png"},"width":"","height":"","link":"","target":"_self"}}],"atts":{"demo_text":"","demo_select":""}}],"atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"","predefined":"","data":{"icon":"","css":[]}},"video":"","custom_class":"service_area","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"}},{"type":"section","_items":[{"type":"simple","shortcode":"information_call_us","atts":{"information_call_us_header":"For Any Information Call Us","information_call_us_subheader":"Esteem spirit temper too say adieus who direct esteem.","information_cta_button_text":"+10 673 763 6786","information_cta_button_url":"#","custom_class":""}}],"atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"149","predefined":"","data":{"icon":"http:\/\/localhost:8888\/conbusi\/wp-content\/uploads\/2019\/12\/info_banner.png","css":{"background-image":"url(\"http:\/\/localhost:8888\/conbusi\/wp-content\/uploads\/2019\/12\/info_banner.png\")"}}},"video":"","custom_class":"Information_area overlay","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"}}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"type":"section","atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"","predefined":"","data":{"icon":"","css":[]}},"video":"","custom_class":"service_area","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"},"_items":[{"type":"simple","shortcode":"section_heading","atts":{"section_heading":"What we Do?","custom_class":""}},{"type":"simple","shortcode":"services","atts":{"custom_class":""}}]},{"type":"section","atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"","predefined":"","data":{"icon":"","css":[]}},"video":"","custom_class":"service_area","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"},"_items":[{"type":"column","width":"1_2","atts":{"demo_text":"","demo_select":""},"_items":[{"type":"simple","shortcode":"section_heading","atts":{"section_heading":"Get Free Quote","custom_class":"text-left"}},{"type":"contact-form","_items":[],"atts":{"id":"725b114cea5cd4ecca402153bf8c28e9","form":{"json":"[{\"type\":\"form-header-title\",\"shortcode\":\"form_header_title\",\"width\":\"\",\"options\":{\"title\":\"\",\"subtitle\":\"\"}},{\"type\":\"text\",\"shortcode\":\"text_c9e193a\",\"width\":\"1_1\",\"options\":{\"label\":\"Name\",\"required\":true,\"placeholder\":\"Enter your Full Name\",\"default_value\":\"\",\"constraints\":{\"constraint\":\"characters\",\"characters\":{\"min\":\"0\",\"max\":\"\"},\"words\":{\"min\":\"0\",\"max\":\"\"}},\"info\":\"\"}},{\"type\":\"email\",\"shortcode\":\"email_52d3d68\",\"width\":\"1_1\",\"options\":{\"label\":\"Email\",\"required\":true,\"placeholder\":\"Enter Your Email Address\",\"info\":\"\"}},{\"type\":\"number\",\"shortcode\":\"number_3873e6c\",\"width\":\"1_1\",\"options\":{\"label\":\"Telephone Number\",\"required\":true,\"placeholder\":\"Enter Your Phone Number\",\"default_value\":\"\",\"constraints\":{\"constraint\":\"value\",\"digits\":{\"min\":\"0\",\"max\":\"\"},\"value\":{\"min\":0,\"max\":0}},\"info\":\"\"}},{\"type\":\"textarea\",\"shortcode\":\"textarea_77a13b8\",\"width\":\"1_1\",\"options\":{\"label\":\"About Quote\",\"required\":true,\"placeholder\":\"What would you like quote for\",\"default_value\":\"\",\"constraints\":{\"constraint\":\"words\",\"characters\":{\"min\":\"0\",\"max\":\"\"},\"words\":{\"min\":\"0\",\"max\":\"\"}},\"info\":\"\"}}]"},"email_to":"","subject_message":"Contact Form","submit_button_text":"Send","success_message":"Message sent!","failure_message":"Oops something went wrong.","mailer":[]}}]},{"type":"column","width":"1_2","atts":{"demo_text":"","demo_select":""},"_items":[{"type":"simple","shortcode":"media_image","atts":{"image":{"attachment_id":"140","url":"\/\/localhost:8888\/conbusi\/wp-content\/uploads\/2019\/12\/contact_thumb.png"},"width":"","height":"","link":"","target":"_self"}}]}]},{"type":"section","atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"149","predefined":"","data":{"icon":"http:\/\/localhost:8888\/conbusi\/wp-content\/uploads\/2019\/12\/info_banner.png","css":{"background-image":"url(\"http:\/\/localhost:8888\/conbusi\/wp-content\/uploads\/2019\/12\/info_banner.png\")"}}},"video":"","custom_class":"Information_area overlay","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"},"_items":[{"type":"simple","shortcode":"information_call_us","atts":{"information_call_us_header":"For Any Information Call Us","information_call_us_subheader":"Esteem spirit temper too say adieus who direct esteem.","information_cta_button_text":"+10 673 763 6786","information_cta_button_url":"#","custom_class":""}}]}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fw_options]]></wp:meta_key>
@@ -4297,7 +4569,7 @@ for your Business</h3>]]></content:encoded>
 	<div class="fw-container">
 		<div class="fw-row">
 	<div class="fw-col-xs-12">
-	<div class="fw-map" data-locations="[{&quot;title&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;thumb&quot;:false,&quot;coordinates&quot;:{&quot;lat&quot;:-34,&quot;lng&quot;:150},&quot;description&quot;:&quot;&quot;}]" data-map-type="ROADMAP" data-map-height="400" data-gmap-key="AIzaSyDRRI8FSM4vMGDhKv1rx-LuCN61BXaEMKs" data-disable-scrolling="">
+	<div class="fw-map" data-locations="[{&quot;title&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;thumb&quot;:false,&quot;coordinates&quot;:{&quot;lat&quot;:-34,&quot;lng&quot;:150},&quot;description&quot;:&quot;&quot;}]" data-map-type="ROADMAP" data-map-height="400" data-gmap-key="AIzaSyDgNdCse-7REAP0KKNPYZzmd2LKZ66eXug" data-disable-scrolling="">
 	<div class="fw-map-canvas"></div>
 </div></div>
 </div>
@@ -4352,9 +4624,8 @@ for your Business</h3>]]></content:encoded>
 <div class="wpcf7-response-output wpcf7-display-none"></div></div></p></div>
 <div class="fw-col-xs-12 fw-col-sm-4">
 	
-<div class="container-fluid">
-<div class="row">
-     <div class="col-lg-3 offset-lg-1">
+
+     <div class="offset-lg-1">
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
@@ -4378,15 +4649,14 @@ for your Business</h3>]]></content:encoded>
                         </div>
                     </div>
 
-                </div>
-            </div></div>
+          </div>
 </div>
 
 	</div>
 </section>
 
 
-<!-- 3af014a3c4a202de2e02a6f5525ae136 -->]]></content:encoded>
+<!-- b1c6135dcab1aa65f8ac02cf4fa64333 -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-29 16:27:48]]></wp:post_date>
@@ -4410,7 +4680,7 @@ for your Business</h3>]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fw:opt:ext:pb:page-builder:json]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"type":"section","atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"","predefined":"","data":{"icon":"","css":[]}},"video":"","custom_class":"contact-section d-none d-sm-block mb-5 pb-4","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"},"_items":[{"type":"simple","shortcode":"map","atts":{"data_provider":{"population_method":"custom","custom":{"locations":[{"location":{"location":"Buttonwood, California. Rosemead, CA 91770","venue":"","address":"","city":"","state":"","country":"","zip":"","coordinates":{"lat":-34,"lng":150}},"title":"","description":"","url":"","thumb":""}]}},"gmap-key":"AIzaSyDRRI8FSM4vMGDhKv1rx-LuCN61BXaEMKs","map_type":"roadmap","map_height":"400","disable_scrolling":false}}]},{"type":"section","atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"","predefined":"","data":{"icon":"","css":[]}},"video":"","custom_class":"contact-section","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"},"_items":[{"type":"column","width":"2_3","atts":{"demo_text":"","demo_select":""},"_items":[{"type":"simple","shortcode":"section_heading","atts":{"section_heading":"Get in Touch","custom_class":"text-left contact-title"}},{"type":"simple","shortcode":"text_block","atts":{"text":"<p>[contact-form-7 id=\"321\" title=\"Contact Form\"]<\/p>"}}]},{"type":"column","width":"1_3","atts":{"demo_text":"","demo_select":""},"_items":[{"type":"simple","shortcode":"contact_details","atts":{"contact_address":"Buttonwood, California.","contact_address_post_code":"Rosemead, CA 91770","telphone_number":"+1 253 565 2365","telphone_working_hours":"Mon to Fri 9am to 6pm","support_email":"support@95media.co.uk","support_text":"Send us your query anytime!","custom_class":""}}]}]}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"type":"section","atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"","predefined":"","data":{"icon":"","css":[]}},"video":"","custom_class":"contact-section d-none d-sm-block mb-5 pb-4","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"},"_items":[{"type":"simple","shortcode":"map","atts":{"data_provider":{"population_method":"custom","custom":{"locations":[{"location":{"location":"Buttonwood, California. Rosemead, CA 91770","venue":"","address":"","city":"","state":"","country":"","zip":"","coordinates":{"lat":-34,"lng":150}},"title":"","description":"","url":"","thumb":""}]}},"gmap-key":"AIzaSyDgNdCse-7REAP0KKNPYZzmd2LKZ66eXug","map_type":"roadmap","map_height":"400","disable_scrolling":false}}]},{"type":"section","atts":{"is_fullwidth":false,"background_color":"","background_image":{"type":"custom","custom":"","predefined":"","data":{"icon":"","css":[]}},"video":"","custom_class":"contact-section","padding_top":"0","padding_left":"0","padding_right":"0","padding_bottom":"0"},"_items":[{"type":"column","width":"2_3","atts":{"demo_text":"","demo_select":""},"_items":[{"type":"simple","shortcode":"section_heading","atts":{"section_heading":"Get in Touch","custom_class":"text-left contact-title"}},{"type":"simple","shortcode":"text_block","atts":{"text":"<p>[contact-form-7 id=\"321\" title=\"Contact Form\"]<\/p>"}}]},{"type":"column","width":"1_3","atts":{"demo_text":"","demo_select":""},"_items":[{"type":"simple","shortcode":"contact_details","atts":{"contact_address":"Buttonwood, California.","contact_address_post_code":"Rosemead, CA 91770","telphone_number":"+1 253 565 2365","telphone_working_hours":"Mon to Fri 9am to 6pm","support_email":"support@95media.co.uk","support_text":"Send us your query anytime!","custom_class":""}}]}]}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[fw_options]]></wp:meta_key>

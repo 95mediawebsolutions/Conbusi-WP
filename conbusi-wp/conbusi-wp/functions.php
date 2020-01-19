@@ -149,6 +149,69 @@ function casestudy_cates() {
 	);
 }
 
+
+
+function filter_casestude_terms($terms)
+{
+    global $post;
+    $args = array(
+       'posts_per_page' => 9,
+       'post_type'     => 'casestudy',
+       'orderby' => 'ASC',
+       'tax_query' =>array(
+           array(
+               'taxonomy' => 'casestudy-cates',
+               'field'   => 'slug',
+               'terms'   => $terms
+           ),),);
+
+           
+    $query = new WP_Query($args);
+    echo '<div class="col-xl-4 grid-item '.$terms.' ">';
+           
+    while ($query->have_posts()): $query->the_post();
+
+    $taxonomy = 'casestudy-cates';
+    $terms = wp_get_post_terms($post->ID, $taxonomy);
+
+    echo '<div class="single_case">';
+           
+    echo '<div class="case_thumb">';
+
+    echo '<a href="' .get_the_permalink($post->ID) . '">';
+    echo get_the_post_thumbnail($post->ID);
+    echo '</a>';
+
+    echo '<div class="case_heading">';
+            
+    echo '<span>';
+    if ($terms && !is_wp_error($terms)) {
+        foreach ($terms as $serv_terms) {
+            echo $serv_terms->name;
+        }
+    }
+    echo '</span>';
+
+    echo '<h3>';
+           
+    echo '<a href="' .get_the_permalink($post->ID) . '">';
+    echo  get_the_title();
+    echo '</a>';
+               
+    echo '</h3>';
+
+    echo '</div>';
+
+    //    echo '<h3>' . get_the_title() . '</h3>';
+
+    echo '</div>';
+    echo '</div>';
+
+    endwhile;
+    echo "</div>";
+    wp_reset_postdata();
+}
+
 /**END CUSTOM POST TYPE FOR case study **/ 
 
 

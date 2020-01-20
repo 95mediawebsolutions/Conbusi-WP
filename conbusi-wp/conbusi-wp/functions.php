@@ -150,9 +150,7 @@ function casestudy_cates() {
 }
 
 
-
-function filter_casestude_terms($terms)
-{
+function filter_casestude_terms($terms){
     global $post;
     $args = array(
        'posts_per_page' => 9,
@@ -163,54 +161,37 @@ function filter_casestude_terms($terms)
                'taxonomy' => 'casestudy-cates',
                'field'   => 'slug',
                'terms'   => $terms
-           ),),);
-
+           ), )
+         ,);
            
-    $query = new WP_Query($args);
-    echo '<div class="col-xl-4 grid-item '.$terms.' ">';
-           
-    while ($query->have_posts()): $query->the_post();
-
-    $taxonomy = 'casestudy-cates';
-    $terms = wp_get_post_terms($post->ID, $taxonomy);
-
-    echo '<div class="single_case">';
-           
-    echo '<div class="case_thumb">';
-
-    echo '<a href="' .get_the_permalink($post->ID) . '">';
-    echo get_the_post_thumbnail($post->ID);
-    echo '</a>';
-
-    echo '<div class="case_heading">';
+           $query = new WP_Query($args);
+            while($query->have_posts()): $query->the_post();
+            $taxonomy = 'casestudy-cates';
+            $term = wp_get_post_terms($post->ID, $taxonomy);
+            ?>
+        <div class="col-xl-4 grid-item <?php echo $terms;?>">
+                    <div class="single_case">
+                        <div class="case_thumb">
+                            <?php echo get_the_post_thumbnail($post->ID);?>
+                        </div>
+                        <div class="case_heading">
+                            <span>
+                            <?php 
+                            if ($term && !is_wp_error($term)) {
+                                foreach ($term as $serv_terms) {
+                                    echo $serv_terms->name;
+                                }
+                            }
+                            ?>
+                            </span>
+                            <h3><a href="<?php echo get_the_permalink($post->ID); ?>"><?php echo get_the_title()?></a></h3>
+                        </div>
+                    </div>
+                </div>
             
-    echo '<span>';
-    if ($terms && !is_wp_error($terms)) {
-        foreach ($terms as $serv_terms) {
-            echo $serv_terms->name;
-        }
-    }
-    echo '</span>';
-
-    echo '<h3>';
-           
-    echo '<a href="' .get_the_permalink($post->ID) . '">';
-    echo  get_the_title();
-    echo '</a>';
-               
-    echo '</h3>';
-
-    echo '</div>';
-
-    //    echo '<h3>' . get_the_title() . '</h3>';
-
-    echo '</div>';
-    echo '</div>';
-
-    endwhile;
-    echo "</div>";
-    wp_reset_postdata();
+            <?php endwhile; wp_reset_postdata();
 }
+
 
 /**END CUSTOM POST TYPE FOR case study **/ 
 

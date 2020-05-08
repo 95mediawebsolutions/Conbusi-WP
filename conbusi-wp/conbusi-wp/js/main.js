@@ -2,14 +2,14 @@
 "use strict";
 // TOP Menu Sticky
 jQuery(window).on('scroll', function () {
-	var scroll = jQuery(window).scrollTop();
-	if (scroll < 400) {
+  var scroll = jQuery(window).scrollTop();
+  if (scroll < 400) {
     jQuery("#sticky-header").removeClass("sticky");
     jQuery('#back-top').fadeIn(500);
-	} else {
+  } else {
     jQuery("#sticky-header").addClass("sticky");
     jQuery('#back-top').fadeIn(500);
-	}
+  }
 });
 
 
@@ -192,7 +192,7 @@ center: false,
     jQuery(this).siblings('.active').removeClass('active');
     jQuery(this).addClass('active');
     event.preventDefault();
-	});
+  });
   
   // wow js
   new WOW().init();
@@ -205,23 +205,23 @@ center: false,
 
 /* magnificPopup img view */
 jQuery('.popup-image').magnificPopup({
-	type: 'image',
-	gallery: {
-	  enabled: true
-	}
+  type: 'image',
+  gallery: {
+    enabled: true
+  }
 });
 
 /* magnificPopup img view */
 jQuery('.img-pop-up').magnificPopup({
-	type: 'image',
-	gallery: {
-	  enabled: true
-	}
+  type: 'image',
+  gallery: {
+    enabled: true
+  }
 });
 
 /* magnificPopup video view */
 jQuery('.popup-video').magnificPopup({
-	type: 'iframe'
+  type: 'iframe'
 });
 
 
@@ -351,23 +351,23 @@ dots:false,
 
 // resitration_Form
 jQuery(document).ready(function() {
-	jQuery('.popup-with-form').magnificPopup({
-		type: 'inline',
-		preloader: false,
-		focus: '#name',
+  jQuery('.popup-with-form').magnificPopup({
+    type: 'inline',
+    preloader: false,
+    focus: '#name',
 
-		// When elemened is focused, some mobile browsers in some cases zoom in
-		// It looks not nice, so we disable it:
-		callbacks: {
-			beforeOpen: function() {
-				if(jQuery(window).width() < 700) {
-					this.st.focus = false;
-				} else {
-					this.st.focus = '#name';
-				}
-			}
-		}
-	});
+    // When elemened is focused, some mobile browsers in some cases zoom in
+    // It looks not nice, so we disable it:
+    callbacks: {
+      beforeOpen: function() {
+        if(jQuery(window).width() < 700) {
+          this.st.focus = false;
+        } else {
+          this.st.focus = '#name';
+        }
+      }
+    }
+  });
 });
 
 
@@ -383,7 +383,13 @@ jQuery( document ).ready(function() {
 });
 
 
-
+jQuery(document).ready(function() {
+  jQuery("[href]").each(function() {
+      if (this.href == window.location.href) {
+          jQuery(this).addClass("active");
+      }
+  });
+});
 
 
         // Search Toggle
@@ -402,4 +408,4 @@ jQuery( document ).ready(function() {
             jQuery("#search_input").focus();
         });
 
-})(jQuery);	
+})(jQuery); 

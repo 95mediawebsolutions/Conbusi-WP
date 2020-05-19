@@ -323,3 +323,8 @@ function conbusi_wp_sidebars(){
 }
 
 add_filter('use_block_editor_for_post', '__return_false', 10);
+
+add_action( 'admin_menu', 'remove_unyson_theme_settings', 999 );
+function remove_unyson_theme_settings() {
+    remove_submenu_page( 'themes.php', 'fw-settings' );
+}
